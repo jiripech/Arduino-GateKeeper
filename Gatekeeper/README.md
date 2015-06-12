@@ -1,7 +1,6 @@
-# Arduino-GateKeeper
-Just the Arduino files.
+# Arduino GateKeeper project.
 
-Servos are turned agains each other, so they have a slightly different turn angles. Also
+Servos are turned against each other, so they have a slightly different turn angles. Also
 both servos are detached after they are used to avoid any unnecessary energy consumption.
 
 Servos are wired to Arduino GND (black), 5V (red) and pins 7 (servo 1 yellow)
