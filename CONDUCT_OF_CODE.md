@@ -36,5 +36,5 @@ to help each other, resolve issues, and learn from the mistakes that we will all
 make from time to time.
 
 ## Thanks
-Special thanks to the [Thoughtbot project|https://thoughtbot.com],
-where these rules originate from.
+Special thanks to the [Thoughtbot project](https://thoughtbot.com),
+where these rules originally come from.
